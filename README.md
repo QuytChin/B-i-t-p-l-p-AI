@@ -8,7 +8,7 @@
 - **Giảng viên hướng dẫn:** TS. Phan Thị Huyền Trang
 - **Thời gian hoàn thành:** Tháng 6 năm 2026
 
-## Nhóm sinh viên thực hiện:
+## Sinh viên thực hiện:
 1. **Trần Quyết Chiến** - 24110171
 
 ---
