@@ -1,4 +1,4 @@
-# BÁO CÁO MÔN HỌC: TRÍ TUỆ NHÂN TẠO
+# BÁO CÁO CÁ NHÂN MÔN HỌC: TRÍ TUỆ NHÂN TẠO
 *TRƯỜNG ĐẠI HỌC CÔNG NGHỆ KỸ THUẬT TP. HỒ CHÍ MINH (HCMUTE)*
 *KHOA CÔNG NGHỆ THÔNG TIN*
 
@@ -10,7 +10,7 @@
 
 ## Sinh viên thực hiện:
 1. **Trần Quyết Chiến** - 24110171
-
+Em đã gom bài tập cá nhân tất cả các buổi vào 1 file python 8 puzzle Full
 ---
 
 ## 1. Giới thiệu dự án
